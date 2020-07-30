@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Common package for code sharing between web and native",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@apollo/client": "^3.1.1",
+    "graphql": "^15.3.0"
+  }
+}
